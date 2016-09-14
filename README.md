@@ -1,7 +1,9 @@
 # Puck
-An automatic wallpaper & theme changer for i3
+An automatic wallpaper, i3bar and dmenu theme changer for i3.
 
-## Installation
+Some screenshots are available [here](http://imgur.com/a/ojPkx).
+
+## Requirements
 You will need pillow, python and pip. Then, execute `pip install colorthief`.
 
 ## Usage
