@@ -8,7 +8,7 @@ You will need pillow, python and pip. Then, execute `pip install colorthief`.
 
 ## Usage
 ```python
-python puck.py [url|subreddit|filepath
+python puck.py [url|subreddit|filepath]
 
 # To download a picture from the url
 python puck.py http://imgur.com/MYYtwkP.png
